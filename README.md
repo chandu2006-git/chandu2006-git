@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E8EFE6&height=150&section=header&text=Chandra%20Sekhar&fontSize=42&fontColor=344A3A&fontAlignY=43&desc=Aspiring%20AI%20Learner%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descSize=15&descColor=526B57&descAlignY=68" alt="Chandra Sekhar — Aspiring AI Learner" width="100%" />
 
-<a href="https://github.com/chandu2006-git"><img src="https://komarev.com/ghpvc/?username=chandu2006-git&style=flat-square&color=718873&label=PROFILE+VIEWS" alt="Profile views" /></a>
-<a href="https://github.com/chandu2006-git?tab=followers"><img src="https://img.shields.io/github/followers/chandu2006-git?label=Followers&style=flat-square&color=718873&labelColor=344A3A" alt="GitHub followers" /></a>
-<a href="https://github.com/chandu2006-git"><img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-718873?style=flat-square&labelColor=344A3A" alt="Focus: AI and ML" /></a>
-
 *Exploring how models learn, how systems behave, and how AI can solve practical problems.*
 
 [GitHub](https://github.com/chandu2006-git) · [LinkedIn](https://www.linkedin.com/in/chandrasekhar-a-8685b734/) · [Email](mailto:akulachandrasekhar12323@gmail.com)
