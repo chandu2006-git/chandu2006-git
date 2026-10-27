@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E8EFE6&height=175&section=header&text=CHANDRA%20SEKHAR&fontSize=38&fontColor=344A3A&fontAlignY=40&desc=ASPIRING%20AI%20LEARNER%20%7C%20GenAI%20%E2%80%A2%20ML%20%E2%80%A2%20RESEARCH&descSize=14&descColor=526B57&descAlignY=65" width="100%" alt="Chandra Sekhar — Aspiring AI Learner" />
 
-<a href="https://github.com/chandu2006-git"><img src="https://komarev.com/ghpvc/?username=chandu2006-git&style=flat-square&color=718873&label=PROFILE+VIEWS" alt="Profile views" /></a>
-<a href="https://github.com/chandu2006-git?tab=followers"><img src="https://img.shields.io/github/followers/chandu2006-git?style=flat-square&label=FOLLOWERS&color=718873&labelColor=344A3A" alt="GitHub followers" /></a>
-<a href="https://github.com/chandu2006-git?tab=repositories"><img src="https://img.shields.io/badge/FOCUS-GenAI%20%7C%20ML-718873?style=flat-square&labelColor=344A3A" alt="GenAI and ML" /></a>
 
 *Building practical AI systems. Studying model behavior. Learning through research and engineering.*
 
